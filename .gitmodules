@@ -1,0 +1,3 @@
+[submodule "react-tut"]
+	path = react-tut
+	url = https://github.com/username/react-tut.git
